@@ -13,9 +13,11 @@ https://github.com/miurla/morphic
 ### AI 读取文档
 https://github.com/weaviate/Verba
 
-### AI 执行代码
+### AI 读取github仓库代码（rag）
+
+chat-code-rag.ipynb
 
 
 ### AI 操作EXcel
 
-### 
+参考 autogpt
