@@ -1,4 +1,7 @@
+
+
 # agi 研究案例
+下面是AGI 相关案例研究，openai 相关的key，可以在 https://agicto.com 里面获取
 
 ## AI 视觉能力
 
